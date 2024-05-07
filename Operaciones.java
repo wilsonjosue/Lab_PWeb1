@@ -1,5 +1,5 @@
 public class Operaciones {
-     // Método para sumar dos enteros y devolver la suma
+     // Método para sumar dos enteros 
 
      public int add(int a, int b) {
         return a + b;
