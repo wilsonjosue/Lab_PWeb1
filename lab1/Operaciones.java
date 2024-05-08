@@ -1,3 +1,4 @@
+package lab1;
 public class Operaciones {
      // Método para sumar dos enteros 
 
