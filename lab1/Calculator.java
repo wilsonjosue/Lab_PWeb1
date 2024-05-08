@@ -1,16 +1,6 @@
 package lab1;
-public class Operaciones {
-     // Método para sumar dos enteros 
-
-     public int add(int a, int b) {
-        return a + b;
-    }
-
-    // Método para restar dos enteros
-    public int sub(int a, int b) {
-        return a - b;
-    }
-
+public class Calculator {
+   
     // Método para multiplicar dos enteros
     public int mul(int a, int b) {
         return a * b;
