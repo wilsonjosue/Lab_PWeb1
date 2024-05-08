@@ -1,4 +1,4 @@
-public class Operaciones {
+public class Calculator {
      // Método para sumar dos enteros 
 
      public int add(int a, int b) {
